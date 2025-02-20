@@ -1,0 +1,8 @@
+fashion-clip
+streamlit
+numpy
+Pillow
+scikit-learn
+metric-learn
+torch
+matplotlib
