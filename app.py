@@ -41,5 +41,5 @@ if st.button("🎲 Random Query"):
             st.image(
                 Image.open(image_paths[idx]),
                 caption=f"Similarity: {similarities[idx]:.2f}",
-                use_column_width=True,
+                use_container_width=True,
             )
