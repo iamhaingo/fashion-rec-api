@@ -16,8 +16,8 @@ def load_embeddings():
 embeddings, image_paths = load_embeddings()
 
 # Streamlit app
-st.title("Fashion Recommender System 🧥👗")
-st.markdown("Find similar fashion items using FashionCLIP embeddings!")
+st.title("fashion recommender system")
+# st.markdown("Find similar fashion items using FashionCLIP embeddings!")
 
 # Button to randomize query
 if st.button("🎲 Random Query"):
